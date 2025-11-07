@@ -1,0 +1,6 @@
+[submodule "TemperaturaUmidade"]
+	path = TemperaturaUmidade
+	url = https://github.com/ThiagoM22/TemperaturaUmidade.git
+[submodule "Questionario"]
+	path = Questionario
+	url = https://github.com/ThiagoM22/Questionario.git
