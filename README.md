@@ -27,7 +27,7 @@ Aqui, apresento meus experimentos, estudos e aplicações práticas com **ESP32*
 |----------|------------|------|
 | **TemperaturaUmidade** | Leitura de dados ambientais via DHT11 e envio MQTT | [Acessar projeto](https://github.com/ThiagoM22/TemperaturaUmidade) |
 | **casaAutomaticasenai** | Controle remoto de dispositivos via broker MQTT | [Acessar projeto](https://github.com/ThiagoM22/Questionario) |
-| **Qustionario** | Sistema de perguntas e respostas com Dispkay Lcd e envio MQTT  | [Acessar projeto](https://github.com/ThiagoM22/casaAutomaticasenai) |
+| **Qustionario** | Sistema de perguntas e respostas com Display Lcd e envio MQTT  | [Acessar projeto](https://github.com/ThiagoM22/casaAutomaticasenai) |
 
 > ⚠️ *Os links acima apontam para os submódulos deste repositório.*
 
